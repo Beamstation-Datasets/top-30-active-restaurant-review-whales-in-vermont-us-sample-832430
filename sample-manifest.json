@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9fd55a2e-c8b5-4380-9361-3784942d7b6f",
+  "id_short": 832430,
+  "published_at": "2026-04-14T07:27:26Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-vermont-us-sample-832430",
+  "sample_asset_name": "beamstation_832430_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/832430/beamstation_832430_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "4779e2e1c334378356b6a64795e139e09208b8334d4487276f0c4018a3fd7e6a",
+  "sample_size_bytes": 56212,
+  "total_records": 295
+}
