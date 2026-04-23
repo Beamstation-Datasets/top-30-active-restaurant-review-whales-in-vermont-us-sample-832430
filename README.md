@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Vermont, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `832430` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 359 records |
-| Free sample size | 35 records (9.75%) |
-| Last export | 2026-04-15T03:14:21.413817+00:00 |
+| Full dataset size | 259 records |
+| Free sample size | 25 records (9.65%) |
+| Last export | 2026-04-22T08:27:11.696453+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-vermont-us-sample-832430/releases/download/sample-latest/beamstation_832430_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
